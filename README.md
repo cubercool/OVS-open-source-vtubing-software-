@@ -17,7 +17,7 @@ You will need to create a virtual environment and download the required librarie
 1. pygame
 2. numpy
 3. sounddevice
-Please install those libraries, or the program WILL break :P pip install pygame sounddevice numpy
+4. Please install those libraries, or the program WILL break :P pip install pygame sounddevice numpy
 
 ### Where do the PNGs go?                                                
 You will need to make a new folder that includes the OVS.py file in it, eg /home/koko/OVS_folder
