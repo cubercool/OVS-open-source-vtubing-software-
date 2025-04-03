@@ -1,4 +1,5 @@
 # vtubing-pngtubing-for-raspberry-pi
+## OVS (open source vtubing software)
 I am working on making a full functional and easy to use, vtube and PNG tube software on raspberry pi. (curently only png tubing) this progect will be open source so feel free to pitch in :D but there are some do's and dont's                                                                             
 1. you can use this for vtubing/pngtubing all you want
 2. please dont take my/contributers code and make it your own software or sell it
